@@ -5,6 +5,9 @@
 Some Features:
 
 💻 Tech stack: MERN + Socket.io + TailwindCSS
+
 🔐 Authentication with JWT
+
 🟢 Real-time messaging with Socket.io
+
 ⏳ And much more!
