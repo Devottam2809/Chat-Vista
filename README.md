@@ -1,4 +1,4 @@
-# Chat-Vista Real Time Chat App
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Chat-Vista Real Time Chat App&width=1200&height=200)
 
 ![chatvista login](https://github.com/Devottam2809/Chat-Vista/assets/96367023/fcc10058-992d-43d8-ab5c-90fd75aac045) 
 
